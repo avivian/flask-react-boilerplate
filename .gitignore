@@ -1,0 +1,10 @@
+
+# Mac
+**/.DS_Store
+
+# Python
+**/__pycache__
+
+# JS
+**/bundle.js
+**/node_modules/**
